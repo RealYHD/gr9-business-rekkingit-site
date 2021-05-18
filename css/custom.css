@@ -1,0 +1,20 @@
+body {
+    background-image: url(../patterns/footer_lodyas.png);
+    margin-top: 50px;
+}
+.jumbotron {
+    text-align: left;
+    color: darkkhaki;
+    background-image: url(../patterns/lightpaperfibers.png);
+}
+.navbar {
+    background-image: url(../patterns/grey_@2X.png);
+}
+.footer {
+    color: beige;
+    text-align: center;
+}
+.jumbotron {
+    padding-left: 16px;
+    padding-right: 16px;
+}
